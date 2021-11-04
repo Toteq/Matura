@@ -1,0 +1,5 @@
+Zadanie4.1: 18
+Zadanie4.2: [2, 145, 1, 40585]
+Zadanie4.3:	Pierwsza: 31968
+			Długość: 150
+			Dzielnik: 74
