@@ -3,7 +3,7 @@ tekst = plik.read()
 
 def szyfrowanie(tekst):
     N = 10
-    table = [[] for x in range(N)]
+    table = [[] for _ in range(N)]
 
     x = 0
     y = 0
